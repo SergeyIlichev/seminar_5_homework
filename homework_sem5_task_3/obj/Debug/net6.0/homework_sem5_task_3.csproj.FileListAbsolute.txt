@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\bin\Debug\net6.0\homework_sem5_task_3.exe
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\bin\Debug\net6.0\homework_sem5_task_3.deps.json
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\bin\Debug\net6.0\homework_sem5_task_3.runtimeconfig.json
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\bin\Debug\net6.0\homework_sem5_task_3.dll
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\bin\Debug\net6.0\homework_sem5_task_3.pdb
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.dll
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\refint\homework_sem5_task_3.dll
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.pdb
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\homework_sem5_task_3.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\seminar_5\homework_sem5_task_3\obj\Debug\net6.0\ref\homework_sem5_task_3.dll
